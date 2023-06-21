@@ -21,7 +21,6 @@ public class HelloControllerTest {
 
         HelloController helloController = new HelloController(name -> name);
 
-
         Assertions.assertThatThrownBy(() -> {
             helloController.Hello(null);
         }).isInstanceOf(IllegalArgumentException.class);
