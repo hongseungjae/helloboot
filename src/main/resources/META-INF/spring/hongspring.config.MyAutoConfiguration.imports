@@ -1,2 +1,3 @@
 hongspring.config.autoconfig.TomcatWebServerConfig
+hongspring.config.autoconfig.JettyWebServerConfig
 hongspring.config.autoconfig.DispatcherServletConfig
