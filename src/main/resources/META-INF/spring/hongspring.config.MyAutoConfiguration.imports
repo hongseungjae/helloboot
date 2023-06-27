@@ -3,3 +3,4 @@ hongspring.config.autoconfig.JettyWebServerConfig
 hongspring.config.autoconfig.DispatcherServletConfig
 hongspring.config.autoconfig.PropertyPlaceholderConfig
 hongspring.config.autoconfig.PropertyPostProcessorConfig
+hongspring.config.autoconfig.DataSourceConfig
